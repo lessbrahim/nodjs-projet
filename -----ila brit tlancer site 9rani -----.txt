@@ -1,0 +1,5 @@
+Ila bghit t lancer l projet khasek yarn wla npm and nodejs o mongodb ykono installer.
+
+o dir had les command bach demmarer l projet:
+- cd backend
+- npm/yarn run start 
