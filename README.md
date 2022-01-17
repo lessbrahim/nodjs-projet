@@ -1,5 +1,5 @@
 #  Node js  Website <br>
-Groupe : * SAFI NOUHAILA * LESS BRAHIM <br>
+Groupe : * SAFI NOUHAILA * SAFIH HICHAM OUSSAMA * LESS BRAHIM <br>
 
 ![](https://github.com/lessbrahim/nodjs-projet/blob/main/screenshots/home.png)
 
